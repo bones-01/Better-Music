@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/ThingDef[defName="Harpsichord"]/statBases/JoyGainFactor</xpath>
+         <value>
+            <JoyGainFactor>1.2</JoyGainFactor>
+         </value>
+     </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/ThingDef[defName="Piano"]/statBases/JoyGainFactor</xpath>
+         <value>
+            <JoyGainFactor>1.4</JoyGainFactor>
+         </value>
+     </Operation>
+ </Patch> 

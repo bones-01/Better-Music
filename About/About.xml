@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModMetaData>
+    <name>Better Music</name>
+    <author>Bones</author>
+    <packageId>Bones.BetterMusic</packageId>
+    <supportedVersions>
+        <li>1.1</li>
+    </supportedVersions>
+    <modDependencies>
+        <li>
+            <packageId>Ludeon.RimWorld.Royalty</packageId>
+                <displayName>RimWorld - Royalty</displayName>
+            <steamWorkshopUrl>steam://https://store.steampowered.com/app/1149640/RimWorld__Royalty/</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+    <description>Changes harpsichords and pianos to have better recreation power.</description>
+</ModMetaData>
